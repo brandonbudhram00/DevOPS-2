@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+version: "3.9"
+>>>>>>> 062053d7b258230470f2d624f29970ea16fd4395
 services:
   web:
     build: .

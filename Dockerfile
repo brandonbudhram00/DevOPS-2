@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 062053d7b258230470f2d624f29970ea16fd4395
 # syntax=docker/dockerfile:1
 FROM python:3.7-alpine
 WORKDIR /code
